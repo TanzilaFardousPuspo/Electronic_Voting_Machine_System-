@@ -18,6 +18,7 @@
 ![Picture6](https://github.com/TanzilaFardousPuspo/Electronic_Voting_Machine_System-/assets/150069606/3165ff69-4704-439d-94a1-243812542dc3)
 ### Only the system administrator can see the final result. So, administrator user name shown below
 <img width="481" alt="Picture7" src="https://github.com/TanzilaFardousPuspo/Electronic_Voting_Machine_System-/assets/150069606/2e9ab827-1ab6-454b-9e97-3a6965622877">
+
 ### Administrator password
 
 ![Picture8](https://github.com/TanzilaFardousPuspo/Electronic_Voting_Machine_System-/assets/150069606/da03275b-6829-46bf-a65e-5dd001d96495)
