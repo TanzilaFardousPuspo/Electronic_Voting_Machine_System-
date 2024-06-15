@@ -3,5 +3,8 @@
 
 
 ## Welcome Page:
-![image](https://github.com/TanzilaFardousPuspo/Electronic_Voting_Machine_System-/assets/150069606/92ceb721-adad-4ae8-8c79-cce487f5d85b)
+## Registration Frame:
+## Login Frame:
+## Voting Body Frame:
+If all the information of voter is valid then show:![image]
 
